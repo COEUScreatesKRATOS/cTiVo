@@ -29,10 +29,11 @@ Note that cTiVo lets you show/hide individual video formats. We have hidden some
     It's a commercial encoder available from [Elgato](http://elgato.com), which is currently(4/20/2014) released as software and was previously hardware and software package (Although you may be able to purchase the USB it is no longer listed on the Elgato website). If you own an old Mac, or just want to keep your Mac from using a lot of processing power to encode, you can buy the ElGato hardware accelerator, which is a USB stick, and use that to encode shows instead.
 1. I use MEncoder/ HandBrake/ Elgato Turbo.264, but I want to use different options from what you chose.     
     See the [Advanced Topics](Advanced-Topics.md) page. You can also read up on most of the video encoder options avalible for each video encoder listed below:
-    - [Basic usage of MEncoder](http://www.mplayerhq.hu/DOCS/HTML/en/mencoder.html).
-    - [HandbrakeCLI config page](https://trac.handbrake.fr/wiki/CLIGuide). 
-    - [Elgato Turbo.264](http://www.elgato.com/en/video/turbo-264-hd-software/support). 
-
+     *Known Comskip comaptibility is listed in the ().*
+    - [Basic usage of MEncoder](http://www.mplayerhq.hu/DOCS/HTML/en/mencoder.html) (Skip:Mark).
+    - [HandbrakeCLI config page](https://trac.handbrake.fr/wiki/CLIGuide) (Mark Only). 
+    - [Elgato Turbo.264](http://www.elgato.com/en/video/turbo-264-hd-software/support).
+    
 1. **Special Note** for HandBrake users.
      You can also use HandBrake's built in presets if you would like to(see example below).
 
